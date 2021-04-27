@@ -12,7 +12,7 @@ import (
 
 	"github.com/Sirupsen/logrus"
 
-	"github.com/jetstack/airworthy/pkg/gnupg"
+	"github.com/0xvox/airworthy/pkg/gnupg"
 )
 
 type Flags struct {

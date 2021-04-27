@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/jetstack/airworthy/pkg/gnupg"
+	"github.com/0xvox/airworthy/pkg/gnupg"
 	"golang.org/x/crypto/openpgp"
 )
 

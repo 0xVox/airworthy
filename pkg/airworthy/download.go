@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/jetstack/airworthy/pkg/cacertificates"
+	"github.com/0xvox/airworthy/pkg/cacertificates"
 )
 
 func (a *Airworthy) HTTPClient() *http.Client {

@@ -3,7 +3,7 @@ package cmd
 import (
 	"github.com/spf13/cobra"
 
-	"github.com/jetstack/airworthy/pkg/airworthy"
+	"github.com/0xvox/airworthy/pkg/airworthy"
 )
 
 var flags = &airworthy.Flags{}

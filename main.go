@@ -1,6 +1,6 @@
 package main
 
-import "github.com/jetstack/airworthy/cmd"
+import "github.com/0xVox/airworthy/cmd"
 
 var (
 	version string = "dev"

@@ -12,7 +12,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/jetstack/airworthy/pkg/gnupg"
+	"github.com/0xvox/airworthy/pkg/gnupg"
 )
 
 func (a *Airworthy) checkSHA256Sum(hash []byte, reader io.Reader) error {
